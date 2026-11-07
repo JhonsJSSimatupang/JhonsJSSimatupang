@@ -102,24 +102,3 @@ float f0 = 1.0f / (2.0f * M_PI * sqrtf(L * C));
 
 ---
 
-## 📊 Activity
-
-<div align="center">
-
-[![streak](https://streak-stats.demolab.com?user=JhonsJSSimatupang&theme=dark&background=000000&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&hide_border=true)](https://git.io/streak-stats)
-
-<img src="https://raw.githubusercontent.com/JhonsJSSimatupang/JhonsJSSimatupang/output/github-snake-dark.svg" alt="snake" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-`> open_to: collaboration · research · embedded & iot projects`
-
-[![Portfolio](https://img.shields.io/badge/Lihat_Portfolio-00ff9c?style=for-the-badge&logo=vercel&logoColor=000000)](https://porto-folio-weld.vercel.app/)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,60:003b2a,100:000000&height=80&section=footer" width="100%" />
-
-</div>
